@@ -1,0 +1,26 @@
+Boolean Expressions
+Causal Judgement
+Disambiguation QA
+Dyck Languages
+Formal Fallacies
+Geometric Shapes
+Hyperbaton
+Logical Deduction Seven Objects
+Logical Deduction Three Objects
+Logical Deduction Five Objects
+Movie Recommendation
+MultiStep Arithmetic Two
+Navigate
+Object Counting
+Penguins in a Table
+Reasoning about Colored Objects
+Ruin Names
+Salient Translation Error Detection
+Snarks
+Sports Understanding
+Temporal Sequences
+Tracking Shuffled Objects Five Objects
+Tracking Shuffled Objects Seven Objects
+Tracking Shuffled Objects Three Objects
+Web of Lies
+Word Sorting

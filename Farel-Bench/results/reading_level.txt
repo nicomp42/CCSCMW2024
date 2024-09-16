@@ -1,0 +1,7 @@
+Flesch-Kincaid Grade: 4.3
+Flesch-Kincaid Reading Ease: 74.35
+GunningFog: 2.21
+ColemanLiau: 8.8
+ARI: 8.4
+SMOG: 6.7
+LIX: 45.01
